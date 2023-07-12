@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?t5ikta');
-  src:  url('fonts/icomoon.eot?t5ikta#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?t5ikta') format('truetype'),
-    url('fonts/icomoon.woff?t5ikta') format('woff'),
-    url('fonts/icomoon.svg?t5ikta#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?tlpq7p');
+  src:  url('fonts/icomoon.eot?tlpq7p#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tlpq7p') format('truetype'),
+    url('fonts/icomoon.woff?tlpq7p') format('woff'),
+    url('fonts/icomoon.svg?tlpq7p#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -44,6 +44,83 @@
 .icon-zhihu:before {
   content: "\e905";
   color: #0084ff;
+}
+.icon-cisco:before {
+  content: "\e908";
+  color: #1ba0d7;
+}
+.icon-creativecommons:before {
+  content: "\e909";
+  color: #ef9421;
+}
+.icon-dropbox:before {
+  content: "\e90a";
+  color: #0061ff;
+}
+.icon-elsevier:before {
+  content: "\e90b";
+  color: #ff6c00;
+}
+.icon-github:before {
+  content: "\e90c";
+}
+.icon-google:before {
+  content: "\e90d";
+  color: #4285f4;
+}
+.icon-steam:before {
+  content: "\e90e";
+}
+.icon-telegram:before {
+  content: "\e90f";
+  color: #2ca5e0;
+}
+.icon-tencentqq:before {
+  content: "\e910";
+  color: #eb1923;
+}
+.icon-tencentweibo:before {
+  content: "\e911";
+  color: #20b8e5;
+}
+.icon-tiktok:before {
+  content: "\e912";
+}
+.icon-twitter:before {
+  content: "\e913";
+  color: #1da1f2;
+}
+.icon-vscode:before {
+  content: "\e914";
+  color: #007acc;
+}
+.icon-wechat1:before {
+  content: "\e915";
+  color: #7bb32e;
+}
+.icon-youtube:before {
+  content: "\e916";
+  color: #f00;
+}
+.icon-zoom:before {
+  content: "\e917";
+  color: #2d8cff;
+}
+.icon-instagram:before {
+  content: "\e906";
+  color: #e4405f;
+}
+.icon-wechat11:before {
+  content: "\e918";
+  color: #7bb32e;
+}
+.icon-whatsapp:before {
+  content: "\e919";
+  color: #25d366;
+}
+.icon-wheniwork:before {
+  content: "\e91a";
+  color: #51a33d;
 }
 .icon-book:before {
   content: "\e91f";
@@ -99,9 +176,6 @@
 .icon-amazon:before {
   content: "\ea87";
 }
-.icon-google:before {
-  content: "\ea88";
-}
 .icon-google-plus:before {
   content: "\ea8b";
 }
@@ -111,20 +185,14 @@
 .icon-facebook:before {
   content: "\ea90";
 }
-.icon-instagram:before {
+.icon-instagram1:before {
   content: "\ea92";
 }
-.icon-whatsapp:before {
+.icon-whatsapp1:before {
   content: "\ea93";
 }
 .icon-spotify:before {
   content: "\ea94";
-}
-.icon-telegram:before {
-  content: "\ea95";
-}
-.icon-twitter:before {
-  content: "\ea96";
 }
 .icon-vine:before {
   content: "\ea97";
@@ -140,9 +208,6 @@
 }
 .icon-rss:before {
   content: "\ea9b";
-}
-.icon-youtube:before {
-  content: "\ea9d";
 }
 .icon-twitch:before {
   content: "\ea9f";
@@ -168,17 +233,8 @@
 .icon-500px:before {
   content: "\eaab";
 }
-.icon-steam:before {
-  content: "\eaac";
-}
-.icon-dropbox:before {
-  content: "\eaae";
-}
 .icon-onedrive:before {
   content: "\eaaf";
-}
-.icon-github:before {
-  content: "\eab0";
 }
 .icon-npm:before {
   content: "\eab1";
@@ -329,4 +385,43 @@
 }
 .icon-history:before {
   content: "\1f552";
+}
+.icon-qq:before {
+  content: "\f1d6";
+}
+.icon-wechat:before {
+  content: "\f1d7";
+}
+.icon-battery:before {
+  content: "\f240";
+}
+.icon-battery-4:before {
+  content: "\f240";
+}
+.icon-battery-full:before {
+  content: "\f240";
+}
+.icon-battery-3:before {
+  content: "\f241";
+}
+.icon-battery-three-quarters:before {
+  content: "\f241";
+}
+.icon-battery-2:before {
+  content: "\f242";
+}
+.icon-battery-half:before {
+  content: "\f242";
+}
+.icon-battery-1:before {
+  content: "\f243";
+}
+.icon-battery-quarter:before {
+  content: "\f243";
+}
+.icon-battery-0:before {
+  content: "\f244";
+}
+.icon-battery-empty:before {
+  content: "\f244";
 }
