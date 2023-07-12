@@ -53,7 +53,7 @@ menu:
   - title:             Publications
     url:               /publications/
   - title:             CV
-    url:               https://chenq9901-logic.github.io/CV-QianCHEN.pdf
+    url:               /CV-QianCHEN.pdf
   # - title:             Presentations
   #   url:               /pres/
   # - title:             Honours and Awards
