@@ -17,7 +17,11 @@ google-plus:
 orcid:
   name: Orcid
   icon: icon-orcid
-  prepend: 'https://plus.google.com/'
+  prepend: 'https://orcid.org/'
+researchgate:
+  name: ResearchGate
+  icon: icon-researchgate
+  prepend: 'https://www.researchgate.net/profile/'
 google-drive:
   name: Google Drive
   icon: icon-google-drive
