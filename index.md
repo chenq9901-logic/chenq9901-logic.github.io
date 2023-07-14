@@ -13,6 +13,8 @@ cover: true
 
 Hi! I’m a PhD candidate in logic at Tsinghua University – University of Amsterdam Joint Research Centre for Logic ([JRC for Logic](http://tsinghualogic.net/JRC/)) and the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl)) at the University of Amsterdam, under the supervision of [Fenrong Liu](http://fenrong.net) and [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/). I’m involved in a Tsinghua-UvA joint doctorate program (3 years at Tsinghua and 2 years at UvA).
 
+Current [CV](/CV-QianCHEN.pdf) here.
+
 
 ## Research Interests
 
