@@ -48,7 +48,7 @@ permalink: /publications/
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded} -->
 
-[Note on Dependence Logic and Common Knowledge]: install.md
+[Note on Dependence Logic and Common Knowledge]: DepCom.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
