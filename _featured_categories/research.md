@@ -1,6 +1,6 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: blog
+layout:  list
 
 # The title of the tag's page.
 title: Research
@@ -10,13 +10,12 @@ slug: research
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  You can see my research here, including the ones being in progress and those already published. have fun!
 
 # (Optional) You can disable grouping posts by date.
 no_groups: false
 
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
-sitemap: false
+sitemap: true
 ---

@@ -3,7 +3,7 @@
 layout: page
 ---
 
-{% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
+{% assign posts = site.categories[page.title] | default:site.tags[page.title] | default:site.posts %}
 
 {{ content }}
 
