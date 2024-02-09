@@ -10,11 +10,13 @@ permalink: /publications/
 
 ## Under review / in progress
 
-1. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). On common knowledge in logic of functional dependence and independence in (hybrid) modal logic. *Manuscript*.
+1. Qian *Chen* (2024). On Pretabularity of Tense Logics over $\mathsf{S4}$. *Manuscript*.
 
-2. Qian *Chen* and Penghao *Du* (2024). Logic of Local Link Variations: Characterization, Model Checking and Satisfiability. *Manuscript*.
+2. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). On common knowledge in logic of functional dependence and independence in (hybrid) modal logic. *Manuscript*.
 
-3. Jeremy  *Seligman* and Qian *Chen* (2024). Applied Logic. *Manuscript*.
+3. Qian *Chen* and Penghao *Du* (2024). Logic of Local Link Variations: Characterization, Model Checking and Satisfiability. *Manuscript*.
+
+4. Jeremy  *Seligman* and Qian *Chen* (2024). Applied Logic. *Manuscript*.
 
 ## Published Works
 
