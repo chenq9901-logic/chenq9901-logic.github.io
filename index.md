@@ -11,14 +11,16 @@ cover: true
 ---
 
 
-Hi! I’m a PhD candidate in logic at Tsinghua University – University of Amsterdam Joint Research Centre for Logic ([JRC for Logic](http://tsinghualogic.net/JRC/)) and the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl)) at the University of Amsterdam, under the supervision of [Fenrong Liu](http://fenrong.net) and [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/). I’m involved in a Tsinghua-UvA joint doctorate program (3 years at Tsinghua and 2 years at UvA).
+Hi! I'm a PhD candidate in logic at Tsinghua University - University of Amsterdam Joint Research Centre for Logic ([JRC for Logic](http://tsinghualogic.net/JRC/)) and the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl)) at the University of Amsterdam, under the supervision of [Fenrong Liu](http://fenrong.net) and [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/). I'm involved in a Tsinghua-UvA joint doctorate program (3 years at Tsinghua and 2 years at UvA).
 
 Current [CV](/CV-QianCHEN.pdf).
 
 
 ## Research Interests
 
-I am most interested in modal logic, especially interactions of operators of polymodal logic. Recently, I am focusing on the similarity and difference between basic modal logic and tense logic. I also hold an active interest in dependence logic, logic of games and other related fields.
+<!-- I'm most interested in modal logic, especially interactions of operators of polymodal logic. Recently, I'm focusing on the similarity and difference between basic modal logic and tense logic. I'm now working on a project about the Kripke incompleteness of modal logic. I also hold an active interest in dependence logic, logic of games and other related fields. -->
+
+My primary research interest lies in modal logic, with a particular focus on the interactions among operators in polymodal logic. Recently, I have been exploring the similarities and distinctions between basic modal logic and tense logic. My current project investigates pretabularity in tense logics. I also hold an active interest in dependence logic, logic of games and other related fields.
 
 <!-- ## Publications
 
@@ -67,5 +69,5 @@ I am most interested in modal logic, especially interactions of operators of pol
 
 You can contact me at any time using the contact information below:
 
-Email: <mailto:chenq21@mails.tsinghua.edu.cn>
+Email: <mailto:chenq21@mails.tsinghua.edu.cn>; <mailto:q.chen2@uva.nl>.
 
