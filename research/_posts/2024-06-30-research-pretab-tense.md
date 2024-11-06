@@ -7,7 +7,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 
-title: "Pretabular Tense Logics over $\mathsf{S4}_t$"
+title: "Pretabular Tense Logics over S4t"
 description: >
   Authors: Qian *Chen*\\
 
