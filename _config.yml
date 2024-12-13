@@ -25,7 +25,7 @@ title:                 Qian CHEN
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Just Qian's Homepage. 
+  This is a website of Qian Chen, a Ph.D. candidate of logic in Tsinghua University (THU) and University of Amsterdam (UvA). Qian is now working on modal logic and tense logic.
 
 # A shorter description for the sidebar.
 tagline:               A logic Ph.D candidate having fun :)
@@ -406,22 +406,19 @@ jekyll_compose:
     drafts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        
       image:
         path: /assets/img/sidebar-bg.jpg
       links:
