@@ -26,7 +26,7 @@ Students are encouraged to follow the recording, read the lecture notes and fini
 - Week 1: A short online kick-off meeting + 3 lecture recordings + Q&A
 - Week 2: 3 lecture recordings + Q&A 
 - Week 3: Group consultations + Q&A 
-- Week 4: Group presentations.
+- Week 4: Group presentations + 1 in-person lecture on modal logic of space by Nick.
 
 ## References
 
