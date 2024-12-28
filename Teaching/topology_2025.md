@@ -39,9 +39,20 @@ More specific references will be made available during the project. You can find
 
 ## Assignments
 
-The will be group presentations and weekly assignments. TBA.
+The will be group presentations and weekly assignments. 
+
+- [Assignment 1](/teaching/TiviaL_HA1_2025.pdf)
+- Assignment 2 (TBA)
+- Assignment 3 (TBA)
 
 ## Lecture Recordings from Last Year
 
-TBA.
+You can find the recordings of the lectures [here](https://surfdrive.surf.nl/files/index.php/s/wxqktkNsLD640D6). There are 6 lectures. The contents and corresponding slides are as follows:
+
+1. Topological Spaces. The Epistemic Interpretation. Bases and Subbases. Examples of Topological Spaces. [(Slides)](/teaching/Lecture-1-2024.pdf)
+2. Examples of Topological Spaces (continued). Topological Constructions: Subspaces and Products. Neighbourhoods. Interior and Closure Operators. [(Slides)](/teaching/Lecture-2-2024.pdf)
+3. Continuous and Open maps. Continuity as Computability. Examples of Continuous functions. Restricting to Bases and Subbases. [(Slides)](/teaching/Lecture-3-2024.pdf)
+4. Introduction to Filters. Filter Convergence: Examples and Epistemic Motivation. Hausdorff Spaces. Equivalence of Hausdorff with Uniqueness of convergence of filters. Weaker Separation Axioms: T1 and T0. Stronger Separation Axioms: T4. [(Slides)](/teaching/Lecture-4-2024.pdf)
+5. Extending Filters: Prime filter theorem (without proof). Compactness. Finite Intersection Property. Equivalence of Compactness with existence of points for convergence. Compact Hausdorff spaces: Basic properties. Introduction to Compactifications. [(Slides)](/teaching/Lecture-5-2024.pdf)
+6. Alexandroff One-Point Compactification. Stone-Cech compactification. Connectedness of Topological spaces - epistemic and geometric motivations. Disconnectedness. Stone spaces. [(Slides)](/teaching/Lecture-6-2024.pdf)
 
