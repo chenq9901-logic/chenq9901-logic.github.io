@@ -4,7 +4,7 @@ title: Topology in and via Logic (2025)
 description: >
 
 hide_description: true
-sitemap: false
+sitemap: true
 ---
 
 Coordinated project, January 2025, ILLC.
@@ -41,7 +41,7 @@ More specific references will be made available during the project. You can find
 
 The will be group presentations and weekly assignments. 
 
-- [Assignment 1](/teaching/TiviaL_HA1_2025.pdf)
+- [Assignment 1 (Updated:2024.12.31)](/teaching/TiviaL_HA1_2025.pdf)
 - Assignment 2 (TBA)
 - Assignment 3 (TBA)
 
