@@ -11,7 +11,7 @@ Coordinated project, January 2025, ILLC.
 
 Instructors: [Qian Chen](/), [Rodrigo N. Almeida](https://rodrigonalmeida.github.io/) and [Nick Bezhanishvili](https://staff.fnwi.uva.nl/n.bezhanishvili/)
 
-## Project Description
+### Project Description
 
 Topology is one of the basic areas of contemporary mathematics, and finds applications in all areas of logic: from traditionally mathematical subjects (model theory, set theory, category theory and algebraic logic) to areas of philosophy (epistemic logic, formal epistemology), formal semantics or computation (domain theory, learning theory). Its key idea is that one can understand space through very simple units -- so'called "open" and "closed" sets, and their interaction -- in a way that can capture both the intuitive properties of physical space, and also more abstract notions of ``space": spaces of ideas, information spaces, or even spaces of actions, for example, in computation.
 
@@ -19,33 +19,47 @@ In this project we will familiarize students with the basic concepts of topology
 
 To sign up for this project, send [me](mailto:q.chen2@uva.nl) an email :)
 
-## Organization
-
-Students are encouraged to follow the recording, read the lecture notes and finish the corresponding assignments every week. There will be a Q&A session every week. The (tentative) schedule is as follows:
-
-- Week 1: A short online kick-off meeting + 3 lecture recordings + Q&A
-- Week 2: 3 lecture recordings + Q&A 
-- Week 3: Group consultations + Q&A 
-- Week 4: Group presentations + 1 in-person lecture on modal logic of space by Nick.
-
-## References
+### References
 
 - Ryszard Engelking, (1968) General Topology.
 - Steven Vickers, (1996) Topology via Logic.
 - Jorge Picado, Aleš Pultr, (2012) Frames and Locales: Topology without Points.
 - Tai-Danae Bradley, Tyler Bryson, John Terilla, (2020) Topology: A Categorical Approach.
 
-More specific references will be made available during the project. You can find the current version of the lecture note [here](LectureNote_Topo.pdf). We thank you for any typos you might notice!
+More specific references will be made available during the project. You can find the current version of the **lecture note** [here](LectureNote_Topo.pdf). We thank you for any typos you might notice!
 
-## Assignments
+### Organization and Schedule
 
-The will be group presentations and weekly assignments. 
+Students are encouraged to follow the recording, read the lecture notes and finish the corresponding assignments every week. There will be a tutorial and two Q&A sessions. The schedule is as follows:
 
-- [Assignment 1 (Updated:2024.12.31)](/teaching/TiviaL_HA1_2025.pdf)
-- Assignment 2 (TBA)
+- Week 1: A short online kick-off meeting + 3 lecture recordings + Tutorial
+  - Jan 7: Kick-off meeting. [(Slides)](/teaching/Topo-2025-kickoff-meeting.pdf)
+  - Jan 10: Tutorial from 15:00 to 16:00, in Room L1.12, Lab 42. (Tutorial sheet TBA)
+- Week 2: 3 lecture recordings + Q&A 
+  - Jan 13: The deadline of HW1, at 14:59.
+  - Jan 17: The deadline of HW2, at 14:59.
+  - Jan 17: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
+- Week 3: Group consultations + Q&A 
+  - Group consultations will be in this week. (More information TBA)
+  - Jan 24: The deadline of HW3, at 14:59.
+  - Jan 24: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
+- Week 4: Group presentations + 1 in-person lecture on modal logic of space by Nick.
+  - Guest lecture(s) will be in this week. (More information TBA)
+  - Group presentations will be in this week. (More information TBA)
+
+### Homework Assignments
+
+The will be three homework assignments. To submit them, please send it to me at: [q.chen2@uva.nl](mailto:q.chen2@uva.nl).
+
+- [Assignment 1 (Updated:2025.1.7)](/teaching/Topo-HW1.pdf)
+- [Assignment 2 (Updated:2025.1.7)](/teaching/Topo-HW2.pdf)
 - Assignment 3 (TBA)
 
-## Lecture Recordings from Last Year
+### Group Presentations
+
+Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. A list of possible topics will be available before group consultations. 
+
+### Lecture Recordings from Last Year
 
 You can find the recordings of the lectures [here](https://surfdrive.surf.nl/files/index.php/s/wxqktkNsLD640D6). There are 6 lectures. The contents and corresponding slides are as follows:
 
@@ -55,4 +69,3 @@ You can find the recordings of the lectures [here](https://surfdrive.surf.nl/fil
 4. Introduction to Filters. Filter Convergence: Examples and Epistemic Motivation. Hausdorff Spaces. Equivalence of Hausdorff with Uniqueness of convergence of filters. Weaker Separation Axioms: T1 and T0. Stronger Separation Axioms: T4. [(Slides)](/teaching/Lecture-4-2024.pdf)
 5. Extending Filters: Prime filter theorem (without proof). Compactness. Finite Intersection Property. Equivalence of Compactness with existence of points for convergence. Compact Hausdorff spaces: Basic properties. Introduction to Compactifications. [(Slides)](/teaching/Lecture-5-2024.pdf)
 6. Alexandroff One-Point Compactification. Stone-Cech compactification. Connectedness of Topological spaces - epistemic and geometric motivations. Disconnectedness. Stone spaces. [(Slides)](/teaching/Lecture-6-2024.pdf)
-
