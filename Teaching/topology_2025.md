@@ -34,7 +34,7 @@ Students are encouraged to follow the recording, read the lecture notes and fini
 
 - Week 1: A short online kick-off meeting + 3 lecture recordings + Tutorial
   - Jan 7: Kick-off meeting. [(Slides)](/teaching/Topo-2025-kickoff-meeting.pdf)
-  - Jan 10: Tutorial from 15:00 to 16:00, in Room L1.12, Lab 42. (Tutorial sheet TBA)
+  - Jan 10: Tutorial from 15:00 to 16:00, in Room L1.12, Lab 42. [(Tutorial sheet)](/Teaching/Topo-Tutorial-1.pdf)
 - Week 2: 3 lecture recordings + Q&A 
   - Jan 13: The deadline of HW1, at 14:59.
   - Jan 17: The deadline of HW2, at 14:59.
