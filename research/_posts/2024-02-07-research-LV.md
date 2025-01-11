@@ -6,7 +6,7 @@ theme_color: '#ccc'
 title: Axiomatization of Hybrid Logic of Link Variations
 description: >
   Authors: Penghao *Du* and Qian *Chen*
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

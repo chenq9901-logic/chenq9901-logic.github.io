@@ -12,7 +12,7 @@ description: >
   Authors: Qian *Chen* and Dazhu *Li*\\
 
   Published on: Dynamic Logic. New Trends and Applications 2023.
-sitemap: false
+sitemap: true
 hide_last_modified: true
 ---
 

@@ -4,7 +4,7 @@ title: Publications
 description: >
   Here you can find all of my publications so far, hope you find them interesting.
 hide_description: false
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 
