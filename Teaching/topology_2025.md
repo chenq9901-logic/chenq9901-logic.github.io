@@ -55,6 +55,10 @@ The will be three homework assignments. To submit them, please send it to me at:
 - [Assignment 2 (Updated:2025.1.7)](/Teaching/Topo-HW2.pdf)
 - Assignment 3 (TBA)
 
+### Tutorial
+
+Here is the [Tutorial sheet](/Teaching/Topo-Tutorial-1.pdf) and [answer to some of the exercises](/Teaching/Topo-Tutorial-1-answer.pdf).
+
 ### Group Presentations
 
 Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. A list of possible topics will be available before group consultations. 
