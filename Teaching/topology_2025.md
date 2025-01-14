@@ -53,7 +53,7 @@ The will be three homework assignments. To submit them, please send it to me at:
 
 - [Assignment 1 (Updated:2025.1.7)](/Teaching/Topo-HW1.pdf)
 - [Assignment 2 (Updated:2025.1.7)](/Teaching/Topo-HW2.pdf)
-- Assignment 3 (TBA)
+- [Assignment 3 (Updated:2025.1.14)](/Teaching/Topo-HW3.pdf)
 
 ### Tutorial
 
