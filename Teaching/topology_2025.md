@@ -43,8 +43,8 @@ Students are encouraged to follow the recording, read the lecture notes and fini
   - Group consultations will be in this week. (More information TBA)
   - Jan 24: The deadline of HW3, at 14:59.
   - Jan 24: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
-- Week 4: Group presentations + 1 in-person lecture on modal logic of space by Nick.
-  - Guest lecture(s) will be in this week. (More information TBA)
+- Week 4: Group presentations + guest lecture(s).
+  - Jan 27: Lecture on Modal Logic of Space by Nick at 14:00. (This will be in-person, place TBA)
   - Group presentations will be in this week. (More information TBA)
 
 ### Homework Assignments
