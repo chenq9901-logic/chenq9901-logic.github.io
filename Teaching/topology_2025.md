@@ -61,7 +61,10 @@ Here is the [Tutorial sheet](/Teaching/Topo-Tutorial-1.pdf) and [answer to some 
 
 ### Group Presentations
 
-Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. A list of possible topics will be available before group consultations. 
+Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. 
+
+A list of possible topics can be found [*here*](/Teaching/Topo-Topic-list-2025.pdf). 
+
 
 ### Lecture Recordings from Last Year
 
