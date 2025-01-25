@@ -67,18 +67,13 @@ A list of possible topics can be found [*here*](/Teaching/Topo-Topic-list-2025.p
 
 The presentations will be on Wednesday and Friday in Week 4. The current schedule is as follows:
 
-**Wednesday (Jan 29, 2025)**
-
 | Time | Presenters | General Topic |
 |----------|----------|-----------| 
+|**Wednesday (Jan 29, 2025)**
 | 14:30 - 15:00 | Milan Hartwig, Victor Joss |Deforming Space|
 | 15:10 - 15:40 | Vighnesh Iyer, Pim Amorison, Estel Koole	|Weighing the character of a space|
 | 15:50 - 16:20 | Louise Wilk, Andy Arteaga |Topology of Surprise|
-	
-	
-
-**Friday (Jan 31, 2025)**
-
+|**Friday (Jan 31, 2025)**
 | Time | Presenters | General Topic | 
 |----------|----------|----------| 
 | 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
