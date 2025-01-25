@@ -74,8 +74,6 @@ The presentations will be on Wednesday and Friday in Week 4. The current schedul
 | 15:10 - 15:40 | Vighnesh Iyer, Pim Amorison, Estel Koole	|Weighing the character of a space|
 | 15:50 - 16:20 | Louise Wilk, Andy Arteaga |Topology of Surprise|
 |**Friday (Jan 31, 2025)**
-| Time | Presenters | General Topic | 
-|----------|----------|----------| 
 | 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
 | 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]|
 | 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup|
