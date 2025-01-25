@@ -40,12 +40,12 @@ Students are encouraged to follow the recording, read the lecture notes and fini
   - Jan 17: The deadline of HW2, at 14:59.
   - Jan 17: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
 - Week 3: Group consultations + Q&A 
-  - Group consultations will be in this week. (More information TBA)
+  - Group consultations will be in this week.
   - Jan 24: The deadline of HW3, at 14:59.
   - Jan 24: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
 - Week 4: Group presentations + guest lecture(s).
-  - Jan 27: Lecture on Modal Logic of Space by Nick at 14:00. (This will be in-person, place TBA)
-  - Group presentations will be in this week. (More information TBA)
+  - Jan 27: Lecture on Modal Logic of Space by Nick at 14:00. Location: B0.204. 
+  - Group presentations will be in this week. 
 
 ### Homework Assignments
 
@@ -64,6 +64,27 @@ Here is the [Tutorial sheet](/Teaching/Topo-Tutorial-1.pdf) and [answer to some 
 Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. 
 
 A list of possible topics can be found [*here*](/Teaching/Topo-Topic-list-2025.pdf). 
+
+The presentations will be on Wednesday and Friday in Week 4. The current schedule is as follows:
+
+**Wednesday (Jan 29, 2025)**
+
+| Time | Presenters | General Topic |
+|----------|----------|-----------| 
+| 14:30 - 15:00 | Milan Hartwig, Victor Joss |Deforming Space|
+| 15:10 - 15:40 | Vighnesh Iyer, Pim Amorison, Estel Koole	|Weighing the character of a space|
+| 15:50 - 16:20 | Louise Wilk, Andy Arteaga |Topology of Surprise|
+	
+	
+
+**Friday (Jan 31, 2025)**
+
+| Time | Presenters | General Topic | 
+|----------|----------|----------| 
+| 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
+| 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]|
+| 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup|
+| 16:00 - 16:30 | Merlin Krzemien, Dor Lotan |Misleading Defeaters and Defeating Misleaders|
 
 
 ### Lecture Recordings from Last Year
