@@ -14,7 +14,7 @@ permalink: /publications/
    
 2. Qian *Chen* and Penghao *Du* (2024). Logic of Local Link Variations: Characterization, Model Checking and Satisfiability. *under review*.
 
-3. Qian *Chen* (2024). Pretabular Tense Logics over S4<sub>t</sub>. *Manuscript*. DOI:[
+3. Qian *Chen* (2024). Pretabular Tense Logics over S4<sub>t</sub> [Preprint]. *arXiv*. [
 https://doi.org/10.48550/arXiv.2412.19558](
 https://doi.org/10.48550/arXiv.2412.19558)
 
