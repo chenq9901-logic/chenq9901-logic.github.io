@@ -33,8 +33,8 @@ More specific references will be made available during the project. You can find
 Students are encouraged to follow the recording, read the lecture notes and finish the corresponding assignments every week. There will be a tutorial and two Q&A sessions. The schedule is as follows:
 
 - Week 1: A short online kick-off meeting + 3 lecture recordings + Tutorial
-  - Jan 7: Kick-off meeting. [(Slides)](/teaching/Topo-2025-kickoff-meeting.pdf)
-  - Jan 10: Tutorial from 15:00 to 16:00, in Room L1.12, Lab 42. [(Tutorial sheet)](/Teaching/Topo-Tutorial-1.pdf)
+  - Jan 7: Kick-off meeting. [(Slides)](Topo-2025-kickoff-meeting.pdf)
+  - Jan 10: Tutorial from 15:00 to 16:00, in Room L1.12, Lab 42. [(Tutorial sheet)](Topo-Tutorial-1.pdf)
 - Week 2: 3 lecture recordings + Q&A 
   - Jan 13: The deadline of HW1, at 14:59.
   - Jan 17: The deadline of HW2, at 14:59.
@@ -51,13 +51,13 @@ Students are encouraged to follow the recording, read the lecture notes and fini
 
 There will be three homework assignments. To submit them, please send it to me at: [q.chen2@uva.nl](mailto:q.chen2@uva.nl).
 
-- [Assignment 1 (Updated:2025.1.7)](/Teaching/Topo-HW1.pdf)
-- [Assignment 2 (Updated:2025.1.7)](/Teaching/Topo-HW2.pdf)
-- [Assignment 3 (Updated:2025.1.22)](/Teaching/Topo-HW3.pdf)
+- [Assignment 1 (Updated:2025.1.7)](Topo-HW1.pdf)
+- [Assignment 2 (Updated:2025.1.7)](Topo-HW2.pdf)
+- [Assignment 3 (Updated:2025.1.22)](Topo-HW3.pdf)
 
 ### Tutorial
 
-Here is the [Tutorial sheet](/Teaching/Topo-Tutorial-1.pdf) and [answer to some of the exercises](/Teaching/Topo-Tutorial-1-answer.pdf).
+Here is the [Tutorial sheet](Topo-Tutorial-1.pdf) and [answer to some of the exercises](Topo-Tutorial-1-answer.pdf).
 
 ### Guest Lecture
 
@@ -67,13 +67,13 @@ A guest lecture was given by Nick on Jan 27.
 
 **Abstract:** In this lecture I will discuss the basics of the topological semantics of modal logic. I will review classical results and also some ongoing work in this active area.
 
-You can find the slides [here](/Teaching/Nick-Qian-project.pdf).
+You can find the slides [here](Nick-Qian-project.pdf).
 
 ### Group Presentations
 
 Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. 
 
-A list of possible topics can be found [*here*](/Teaching/Topo-Topic-list-2025.pdf). 
+A list of possible topics can be found [*here*](Topo-Topic-list-2025.pdf). 
 
 The presentations will be on Wednesday and Friday in Week 4. The current schedule is as follows:
 
@@ -85,7 +85,7 @@ The presentations will be on Wednesday and Friday in Week 4. The current schedul
 | 15:50 - 16:20 | Louise Wilk, Andy Arteaga |Topology of Surprise|
 |**January 31 (Fri.)**
 | 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
-| 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]| [Slides](/Teaching/It_is_simple_x.pdf)
+| 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]| [Slides](It_is_simple_x.pdf)
 | 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup|
 | 16:00 - 16:30 | Merlin Krzemien, Dor Lotan |Misleading Defeaters and Defeating Misleaders|
 
@@ -94,9 +94,9 @@ The presentations will be on Wednesday and Friday in Week 4. The current schedul
 
 You can find the recordings of the lectures [here](https://surfdrive.surf.nl/files/index.php/s/wxqktkNsLD640D6). There are 6 lectures. The contents and corresponding slides are as follows:
 
-1. Topological Spaces. The Epistemic Interpretation. Bases and Subbases. Examples of Topological Spaces. [(Slides)](/teaching/Lecture-1-2024.pdf)
-2. Examples of Topological Spaces (continued). Topological Constructions: Subspaces and Products. Neighbourhoods. Interior and Closure Operators. [(Slides)](/teaching/Lecture-2-2024.pdf)
-3. Continuous and Open maps. Continuity as Computability. Examples of Continuous functions. Restricting to Bases and Subbases. [(Slides)](/teaching/Lecture-3-2024.pdf)
-4. Introduction to Filters. Filter Convergence: Examples and Epistemic Motivation. Hausdorff Spaces. Equivalence of Hausdorff with Uniqueness of convergence of filters. Weaker Separation Axioms: T1 and T0. Stronger Separation Axioms: T4. [(Slides)](/teaching/Lecture-4-2024.pdf)
-5. Extending Filters: Prime filter theorem (without proof). Compactness. Finite Intersection Property. Equivalence of Compactness with existence of points for convergence. Compact Hausdorff spaces: Basic properties. Introduction to Compactifications. [(Slides)](/teaching/Lecture-5-2024.pdf)
-6. Alexandroff One-Point Compactification. Stone-Cech compactification. Connectedness of Topological spaces - epistemic and geometric motivations. Disconnectedness. Stone spaces. [(Slides)](/teaching/Lecture-6-2024.pdf)
+1. Topological Spaces. The Epistemic Interpretation. Bases and Subbases. Examples of Topological Spaces. [(Slides)](Lecture-1-2024.pdf)
+2. Examples of Topological Spaces (continued). Topological Constructions: Subspaces and Products. Neighbourhoods. Interior and Closure Operators. [(Slides)](Lecture-2-2024.pdf)
+3. Continuous and Open maps. Continuity as Computability. Examples of Continuous functions. Restricting to Bases and Subbases. [(Slides)](Lecture-3-2024.pdf)
+4. Introduction to Filters. Filter Convergence: Examples and Epistemic Motivation. Hausdorff Spaces. Equivalence of Hausdorff with Uniqueness of convergence of filters. Weaker Separation Axioms: T1 and T0. Stronger Separation Axioms: T4. [(Slides)](Lecture-4-2024.pdf)
+5. Extending Filters: Prime filter theorem (without proof). Compactness. Finite Intersection Property. Equivalence of Compactness with existence of points for convergence. Compact Hausdorff spaces: Basic properties. Introduction to Compactifications. [(Slides)](Lecture-5-2024.pdf)
+6. Alexandroff One-Point Compactification. Stone-Cech compactification. Connectedness of Topological spaces - epistemic and geometric motivations. Disconnectedness. Stone spaces. [(Slides)](Lecture-6-2024.pdf)

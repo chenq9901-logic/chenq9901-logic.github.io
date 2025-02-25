@@ -32,4 +32,4 @@ Should you think something is missing, [please let me know](mailto:q.chen2@uva.n
 
 
 
-[Topology in and via Logic (2025)]: topology_2025.md
+[Topology in and via Logic (2025)]: topo_2025/topology_2025.md
