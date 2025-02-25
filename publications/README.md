@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Under review / in progress
    
-1. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). Naming Sets: New Axiomatization of the Modal Logic in the Bimodal Base $L(R, −R)$. *Accepted by AWPL 2025*.
+1. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). Naming Sets: New Axiomatization of the Modal Logic in the Bimodal Base L(R, −R). *Accepted by AWPL 2025*.
    
 2. Qian *Chen* and Penghao *Du* (2024). Logic of Local Link Variations: Characterization, Model Checking and Satisfiability. *under review*.
 
@@ -18,7 +18,9 @@ permalink: /publications/
 https://doi.org/10.48550/arXiv.2412.19558](
 https://doi.org/10.48550/arXiv.2412.19558)
 
-4. Jeremy *Seligman* and Qian *Chen* (2024). Applied Logic. *Manuscript*.
+4. Qian *Chen* (2025). Degree of Kripke Incompleteness in Tense Logics (Abstract). under review.
+
+5. Jeremy *Seligman* and Qian *Chen* (2025). Applied Logic. *Manuscript*.
 
 ## Published Works
    
@@ -63,7 +65,7 @@ https://doi.org/10.48550/arXiv.2412.19558)
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded} -->
 
-[Note on Dependence Logic and Common Knowledge]: DepCom.md
+<!-- [Note on Dependence Logic and Common Knowledge]: DepCom.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
@@ -73,4 +75,4 @@ https://doi.org/10.48550/arXiv.2412.19558)
 [advanced]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+[CHANGELOG]: ../CHANGELOG.md -->
