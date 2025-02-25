@@ -16,7 +16,7 @@ Should you think something is missing, [please let me know](mailto:q.chen2@uva.n
 {:.related-posts.faded}
 
 
-* [Degrees of Kripke Incompleteness (2024)]{:.heading.flip-title} --- An individual Project on modal logic at ILLC (jointly with Rodrigo N. Almeida and Nick Bezhanishvili).
+* [Degrees of Kripke Incompleteness (2024)]{:.heading.flip-title} --- An individual project on modal logic at ILLC (jointly with Rodrigo N. Almeida and Nick Bezhanishvili).
 {:.related-posts.faded}
 
 ## Teaching Assistant
