@@ -11,10 +11,13 @@ Welcome to the teaching section. Here, you will find an overview of the courses 
 Should you think something is missing, [please let me know](mailto:q.chen2@uva.nl).
 
 ## Supervised Projects
-* [Topology in and via Logic (2025)]{:.heading.flip-title} --- A winter project on topology theory at ILLC.
+
+* [Topology in and via Logic (2025)]{:.heading.flip-title} --- A winter project on topology theory at ILLC (jointly with Rodrigo N. Almeida and Nick Bezhanishvili).
 {:.related-posts.faded}
 
-* Individual Project on Degrees of Kripke Completeness (jointly with Rodrigo N. Almeida and Nick Bezhanishvili) (2024, 2 Students)
+
+* [Degrees of Kripke Completeness (2024)]{:.heading.flip-title} --- An individual Project on modal logic at ILLC (jointly with Rodrigo N. Almeida and Nick Bezhanishvili).
+{:.related-posts.faded}
 
 ## Teaching Assistant
 
@@ -33,3 +36,4 @@ Should you think something is missing, [please let me know](mailto:q.chen2@uva.n
 
 
 [Topology in and via Logic (2025)]: topo_2025/topology_2025.md
+[Degrees of Kripke Completeness (2024)]: degree_2024.md
