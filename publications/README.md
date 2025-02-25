@@ -10,11 +10,11 @@ permalink: /publications/
 
 ## Under review / in progress
    
-1. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). Naming Sets: New Axiomatization of the Modal Logic in the Bimodal Base L(R, −R). *Accepted by AWPL 2025*.
+1. Chenwei *Shi*, Qian *Chen*, and Qingyu *He* (2024). Naming Sets: New Axiomatization of the Modal Logic in the Bimodal Base L(R,-R). *Accepted by AWPL 2025*.
    
 2. Qian *Chen* and Penghao *Du* (2024). Logic of Local Link Variations: Characterization, Model Checking and Satisfiability. *under review*.
 
-3. Qian *Chen* (2024). Pretabular Tense Logics over S4<sub>t</sub> [Preprint]. *arXiv*. [
+3. Qian *Chen* (2024). Pretabular Tense Logics over S4<sub>t</sub> [Preprint]. *arXiv*. 
 https://doi.org/10.48550/arXiv.2412.19558](
 https://doi.org/10.48550/arXiv.2412.19558)
 
