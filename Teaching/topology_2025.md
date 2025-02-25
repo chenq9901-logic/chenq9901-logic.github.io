@@ -45,11 +45,11 @@ Students are encouraged to follow the recording, read the lecture notes and fini
   - Jan 24: Q&A session from 15:00 to 16:00, in Room L1.12, Lab 42. 
 - Week 4: Group presentations + guest lecture(s).
   - Jan 27: Lecture on Modal Logic of Space by Nick at 14:00. Location: B0.204. 
-  - Group presentations will be in this week. 
+  - Jan 29 & 31: Group presentations. 
 
 ### Homework Assignments
 
-The will be three homework assignments. To submit them, please send it to me at: [q.chen2@uva.nl](mailto:q.chen2@uva.nl).
+There will be three homework assignments. To submit them, please send it to me at: [q.chen2@uva.nl](mailto:q.chen2@uva.nl).
 
 - [Assignment 1 (Updated:2025.1.7)](/Teaching/Topo-HW1.pdf)
 - [Assignment 2 (Updated:2025.1.7)](/Teaching/Topo-HW2.pdf)
@@ -59,6 +59,16 @@ The will be three homework assignments. To submit them, please send it to me at:
 
 Here is the [Tutorial sheet](/Teaching/Topo-Tutorial-1.pdf) and [answer to some of the exercises](/Teaching/Topo-Tutorial-1-answer.pdf).
 
+### Guest Lecture
+
+A guest lecture was given by Nick on Jan 27. 
+
+**Title:** Spatial modal logics: some modern perspectives
+
+**Abstract:** In this lecture I will discuss the basics of the topological semantics of modal logic. I will review classical results and also some ongoing work in this active area.
+
+You can find the slides [here](/Teaching/Nick-Qian-project.pdf).
+
 ### Group Presentations
 
 Students are expected to form a team of 2-3 people and give a presentation on more advanced topics. 
@@ -67,15 +77,15 @@ A list of possible topics can be found [*here*](/Teaching/Topo-Topic-list-2025.p
 
 The presentations will be on Wednesday and Friday in Week 4. The current schedule is as follows:
 
-| Time | Presenters | General Topic |
-|----------|----------|-----------| 
+| Time | Presenters | General Topic | Note |
+|----------|----------|-----------|--|
 |**January 29 (Wed.)**
 | 14:30 - 15:00 | Milan Hartwig, Victor Joss |Deforming Space|
 | 15:10 - 15:40 | Vighnesh Iyer, Pim Amorison, Estel Koole	|Weighing the character of a space|
 | 15:50 - 16:20 | Louise Wilk, Andy Arteaga |Topology of Surprise|
 |**January 31 (Fri.)**
 | 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
-| 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]|
+| 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]| [Slides](/Teaching/It_is_simple_x.pdf)
 | 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup|
 | 16:00 - 16:30 | Merlin Krzemien, Dor Lotan |Misleading Defeaters and Defeating Misleaders|
 
