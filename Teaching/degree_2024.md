@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Degrees of Kripke Completeness (2024)
+title: Degrees of Kripke Incompleteness (2024)
 description: >
 
 hide_description: true
