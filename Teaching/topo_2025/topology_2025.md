@@ -86,7 +86,7 @@ The presentations will be on Wednesday and Friday in Week 4. The current schedul
 |**January 31 (Fri.)**
 | 14:00 - 14:30 | Yiwei Liang, Shengmen Luo, Guannan Mi|General Topology: Metric Spaces|
 | 14:40 - 15:10 | Ageno Ludovico, Menorello Edoardo |It is simple[x]| [Slides](It_is_simple_x.pdf)
-| 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup|
+| 15:20 - 15:50 | Marco de Mayda, Timo Franssen, Matteo Celli |Space is a Soup| [Slides](Point_free_topology.pdf)
 | 16:00 - 16:30 | Merlin Krzemien, Dor Lotan |Misleading Defeaters and Defeating Misleaders|
 
 
