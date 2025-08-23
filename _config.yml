@@ -48,14 +48,14 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research
-    url:               /research/
+  # - title:             Research
+  #   url:               /research/
   - title:             Publications
     url:               /publications/
-  - title:             CV
-    url:               /CV-QianCHEN.pdf
   - title:             Teaching
     url:               /teaching/
+  - title:             CV
+    url:               /CV-QianCHEN.pdf
   # - title:             Honours and Awards
   #   url:               /hon/
   # - title:             Professional Service
