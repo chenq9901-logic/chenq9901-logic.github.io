@@ -14,6 +14,7 @@ description: >
   Published in: The Review of Symbolic Logic 17(2):475–492 (2024). DOI: https://doi.org/10.1017/S1755020322000132
 sitemap: true
 hide_last_modified: true
+tags: [tense-logic]
 ---
 
 # Tabularity and Post-completeness in Tense Logic

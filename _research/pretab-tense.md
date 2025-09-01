@@ -14,6 +14,8 @@ description: >
   Published on: TACL 2024.
 sitemap: true
 hide_last_modified: true
+tags: [tense-logic]
 ---
 
 TBA.
+

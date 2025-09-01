@@ -14,6 +14,7 @@ description: >
   Published in: Studia Logica 111: 217–250 (2022). DOI: https://doi.org/10.1007/s11225-022-10027-0
 sitemap: true
 hide_last_modified: true
+tags: [tense-logic]
 ---
 
 # Finite model property in weakly transitive tense logics
@@ -34,5 +35,4 @@ and there are $ 2^{\aleph_0} $ logics in $ \mathbb{S}_n $ having the FMP.
 Then we explore the FMP in finitely alternative tense logics and some other intervals on them.
 The number of logics lacking the FMP in them is either $ 0 $ or $ 2^{ \aleph_0} $,
 and the number of logics having the FMP in them is either finite or $ 2^{ \aleph_0} $.
-
 

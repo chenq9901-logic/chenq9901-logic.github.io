@@ -1,0 +1,21 @@
+---
+- slug: tense-logic
+  title: Tense Logic
+  description: Modal/tense systems, pretabularity, weak transitivity, axioms.
+
+- slug: modal-logic
+  title: Modal Logic
+  description: General modal principles and frame conditions.
+
+- slug: hybrid-logic
+  title: Hybrid Logic
+  description: Hybrid operators and dynamic link variations.
+
+- slug: game-logic
+  title: Logic of Games
+  description: Logical frameworks for games and interactions.
+
+- slug: dependence-logic
+  title: Dependence & Preference
+  description: Dependence, preference, and coalitional reasoning.
+

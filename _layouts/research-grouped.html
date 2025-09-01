@@ -1,0 +1,46 @@
+---
+layout: page
+---
+
+{% assign all_posts = site.research | default: site.categories.research | default: site.posts %}
+{% assign topics = site.data.research_topics %}
+
+{{ content }}
+
+{% assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false %}
+
+{% if topics and topics.size > 0 %}
+  {% for topic in topics %}
+    {% assign topic_posts = all_posts | where_exp:'p','p.tags and p.tags contains topic.slug' %}
+    {% if topic_posts.size > 0 %}
+      <h2 id="{{ topic.slug | slugify }}">{{ topic.title }}</h2>
+      {% if topic.description %}
+        <p class="fine">{{ topic.description }}</p>
+      {% endif %}
+      <div class="columns columns-break">
+        {% for post in topic_posts %}
+          {% assign featured = page.featured | default:post.featured %}
+          <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
+            {% include_cached pro/post-card.html post=post featured=featured %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{%- comment -%}
+  Optionally show unclassified research (without any of the configured topic tags)
+{%- endcomment -%}
+{% assign unclassified = all_posts | where_exp:'p','p.tags == nil or p.tags == empty' %}
+{% if unclassified and unclassified.size > 0 %}
+  <h2 id="other">Other</h2>
+  <div class="columns columns-break">
+    {% for post in unclassified %}
+      {% assign featured = page.featured | default:post.featured %}
+      <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
+        {% include_cached pro/post-card.html post=post featured=featured %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}

@@ -14,6 +14,7 @@ description: >
   Published in: Journal of Philosophical Logic 53, 99–130 (2024). DOI: https://doi.org/10.1007/s10992-023-09727-2
 sitemap: true
 hide_last_modified: true
+tags: [dependence-logic, preference-logic, game-logic]
 ---
 
 # Reasoning about dependence, preference, and coalitional power

@@ -14,6 +14,7 @@ description: >
   Published in: Studia Logica 109: 1093–1118 (2021). DOI: https://doi.org/10.1007/s11225-021-09942-5
 sitemap: true
 hide_last_modified: true
+tags: [tense-logic]
 ---
 
 # Lattices of finitely alternative tense logics
