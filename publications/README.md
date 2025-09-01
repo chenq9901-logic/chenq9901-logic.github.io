@@ -38,13 +38,13 @@ permalink: /publications/
 
 1. Qian *Chen* and Minghui *Ma* (2024). [The McKinsey Axiom on Weakly Transitive Frames](/research/2024-07-29-research-mckinsey-axiom/). *Studia Logica*. DOI: [https://doi.org/10.1007/s11225-024-10145-x](https://doi.org/10.1007/s11225-024-10145-x)
    
-2. Qian *Chen* and Minghui *Ma* (2024). Tabularity and Post-completeness in Tense Logic. *The Review of Symbolic Logic* 17(2):475-492. DOI: [https://doi.org/10.1017/S1755020322000132](https://doi.org/10.1017/S1755020322000132)
+2. Qian *Chen* and Minghui *Ma* (2024). [Tabularity and Post-completeness in Tense Logic](/research/2022-11-15-research-tabulary-post-completeness-tense-logic/). *The Review of Symbolic Logic* 17(2):475–492. DOI: [https://doi.org/10.1017/S1755020322000132](https://doi.org/10.1017/S1755020322000132)
    
-3. Qian *Chen*, Chenwei *Shi*, and Yiyan *Wang* (2024). Reasoning about dependence, preference, and coalitional power. *Journal of Philosophical Logic*: 53, 99–130. DOI: [https://doi.org/10.1007/s10992-023-09727-2](https://doi.org/10.1007/s10992-023-09727-2)
+3. Qian *Chen*, Chenwei *Shi*, and Yiyan *Wang* (2024). [Reasoning about dependence, preference, and coalitional power](/research/2023-11-28-research-reasoning-dependence-preference-coalitional-power/). *Journal of Philosophical Logic* 53, 99–130. DOI: [https://doi.org/10.1007/s10992-023-09727-2](https://doi.org/10.1007/s10992-023-09727-2)
 
-4.  Minghui *Ma* and Qian *Chen* (2022). Finite model property in weakly transitive tense logics. *Studia Logica* 111: 217--250. DOI: [https://doi.org/10.1007/s11225-022-10027-0](https://doi.org/10.1007/s11225-022-10027-0)
+4.  Minghui *Ma* and Qian *Chen* (2023). [Finite model property in weakly transitive tense logics](/research/2023-11-15-research-fmp-weakly-transitive-tense-logics/). *Studia Logica* 111: 217–250. DOI: [https://doi.org/10.1007/s11225-022-10027-0](https://doi.org/10.1007/s11225-022-10027-0)
 
-5.  Minghui *Ma* and Qian *Chen* (2021). Lattices of finitely alternative tense logics. *Studia Logica* 109: 1093--1118. DOI: [https://doi.org/10.1007/s11225-021-09942-5](https://doi.org/10.1007/s11225-021-09942-5)
+5.  Minghui *Ma* and Qian *Chen* (2021). [Lattices of finitely alternative tense logics](/research/2021-03-25-research-lattices-finitely-alternative-tense-logics/). *Studia Logica* 109: 1093–1118. DOI: [https://doi.org/10.1007/s11225-021-09942-5](https://doi.org/10.1007/s11225-021-09942-5)
 
 ## Refereed Conference Proceedings (and Abstracts)
    
