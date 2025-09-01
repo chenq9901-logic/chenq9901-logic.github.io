@@ -17,8 +17,16 @@ layout: page
       {% if topic.description %}
         <p class="fine">{{ topic.description }}</p>
       {% endif %}
+      {% assign with_order = topic_posts | where_exp:'p','p.order' | sort: 'order' %}
+      {% assign without_order = topic_posts | where_exp:'p','p.order == nil' | sort: 'title' %}
       <div class="columns columns-break">
-        {% for post in topic_posts %}
+        {% for post in with_order %}
+          {% assign featured = page.featured | default:post.featured %}
+          <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
+            {% include_cached pro/post-card.html post=post featured=featured %}
+          </div>
+        {% endfor %}
+        {% for post in without_order %}
           {% assign featured = page.featured | default:post.featured %}
           <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
             {% include_cached pro/post-card.html post=post featured=featured %}
