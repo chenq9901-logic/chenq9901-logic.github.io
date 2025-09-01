@@ -36,7 +36,7 @@ permalink: /publications/
 
 ## Journal articles
 
-1. Qian *Chen* and Minghui *Ma* (2024). The McKinsey Axiom on Weakly Transitive Frames. *Studia Logica*. DOI: [https://doi.org/10.1007/s11225-024-10145-x](https://doi.org/10.1007/s11225-024-10145-x)
+1. Qian *Chen* and Minghui *Ma* (2024). [The McKinsey Axiom on Weakly Transitive Frames](/research/2024-07-29-research-mckinsey-axiom/). *Studia Logica*. DOI: [https://doi.org/10.1007/s11225-024-10145-x](https://doi.org/10.1007/s11225-024-10145-x)
    
 2. Qian *Chen* and Minghui *Ma* (2024). Tabularity and Post-completeness in Tense Logic. *The Review of Symbolic Logic* 17(2):475-492. DOI: [https://doi.org/10.1017/S1755020322000132](https://doi.org/10.1017/S1755020322000132)
    
