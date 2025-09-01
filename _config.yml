@@ -48,8 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research
-    url:               /research/
+  - title:             Home
+    url:               /
+  # - title:             Research
+  #   url:               /research/
   - title:             Publications
     url:               /publications/
   - title:             Teaching
