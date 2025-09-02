@@ -20,7 +20,7 @@ Current [CV](/CV-QianCHEN.pdf).
 
 <!-- I'm most interested in modal logic, especially interactions of operators of polymodal logic. Recently, I'm focusing on the similarity and difference between basic modal logic and tense logic. I'm now working on a project about the Kripke incompleteness of modal logic. I also hold an active interest in dependence logic, logic of games and other related fields. -->
 
-My primary research interest lies in modal logic, with a particular focus on the interactions among operators in polymodal logic. Recently, I have been exploring the similarities and distinctions between basic modal logic and tense logic. My current projects investigate pretabularity and amalgamation property in tense logics. I also hold an active interest in dependence logic, logic of games and other related fields.
+My primary research interest lies in modal logic, with a particular focus on the interactions among operators in polymodal logic. Recently, I have been exploring the similarities and distinctions between basic modal logic and tense logic. My current projects investigate pretabularity, the degree of Kripke-incompleteness and amalgamation property in tense logics. I also hold an active interest in dependence logic, logic of games and other related fields.
 
 <!-- ## Publications
 
